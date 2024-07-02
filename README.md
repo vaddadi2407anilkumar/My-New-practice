@@ -7,3 +7,4 @@ Getting errors while practicing
 adding new skills
 adding new technologies
 need to get more information
+even getting errors
